@@ -1,0 +1,13 @@
+.tombol1, .tombol2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.tombol1 {
+    background-color: rgb(0,0,0);
+    color: #ffffff;
+}
+
+.tombol2 {
+    background-color: yellow;
+}
